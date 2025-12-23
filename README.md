@@ -4,6 +4,8 @@ An Android application built using **Jetpack Compose**, following **Clean Archit
 
 ---
 
+https://github.com/user-attachments/assets/2dec0b27-cd86-405b-9e4e-2b9999d325d5
+
 ## 🚀 Tech Stack
 
 - **Language:** Kotlin
